@@ -3,7 +3,7 @@ import random as rd
 
 
 #Variable of File_path:
-file_path = 'D:/Python_work/text_files/Random_Name.csv'
+file_path = ''  #Enter the file path
 random_names = []
 
 
